@@ -1,0 +1,98 @@
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 15px;
+    cursor: pointer;
+  }
+
+  .button1 {
+    background-color: rgba(0, 0, 0, 0.377);
+    border-style: groove;
+    border-color: rgba(0, 0, 0, 0.473);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.search {
+    width: 30px;
+  }
+
+.searchtab{
+    text-align: right;
+}
+
+.searchfield{
+    vertical-align: top;
+    margin-top: 9px;
+}
+
+.table {
+    width: 100%;
+}
+
+.logo {
+    width: 225px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: white;
+}  
+
+.center {
+    text-align: center;
+}
+
+.welcome {
+    font-size: 47px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.picback {
+    background-color: black;
+    
+}
+
+.mainback {
+    background-color: rgba(241, 241, 241, 0.658);
+}
+
+.skryt {
+    font-size: 25px;
+}
+
+.products {
+    width: 250px;
+    border-style: groove;
+    border-color: rgba(0, 0, 0, 0.425);
+    cursor: pointer;
+}
+
+.mainpic {
+    width:750px;
+}
+
+.column-1 {
+    width: 20%;
+}
+
+.column-2 {
+    text-align: center;
+}
+
+.back-icon {
+    width: 40px;
+    vertical-align: middle;
+}
+
+.back-style {
+    background-color: rgba(0, 0, 0, 0.377);
+    border-style: groove;
+    border-color: black;
+    padding: 7px 10px 9px 0px;
+    margin-left: 50px;
+    cursor: pointer;
+}
